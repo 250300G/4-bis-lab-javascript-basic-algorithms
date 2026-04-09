@@ -22,7 +22,7 @@ else {(console.log(`Wow, you both have equally long names, ${name1.length} chara
 // Iteration 3: Loops
 console.log(name1.toUpperCase());
 
-console.log(name1.split('').join(' '));
+console.log(name1.split('').join(''));
 
  function reverseName (name2) {
     return name2.split('').reverse().join('');
