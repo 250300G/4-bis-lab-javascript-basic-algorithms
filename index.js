@@ -38,10 +38,11 @@ console.log(reverseName(name2));
 
 else console.log("What?! You both have the same name?");
     
+//Bonus 1:
 let longText ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiueu fugiat nulla pariatur. Excepteur sint ocim id est laborum.";
 for (i=0 ; i <= longText.length; i++) {
 let text = longText.split("");
 console.log(text.length);
 }
 
- 
+
